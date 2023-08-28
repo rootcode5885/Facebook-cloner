@@ -24,7 +24,7 @@ from colorama import Fore,Back
 
 
 def Main():
-    host = "192.168.0.171"
+    host = "192.168.81.193"
     port = "4444"
     
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
